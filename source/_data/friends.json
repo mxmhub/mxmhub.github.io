@@ -1,9 +1,11 @@
 [
+
 {
-    "avatar": "http://image.luokangyuan.com/4027734.jpeg",
-    "name": "闪烁之狐",
-    "introduction": "编程界大佬，技术牛，人还特别好，不懂的都可以请教大佬",
-    "url": "https://blinkfox.github.io/",
+    "avatar": "medias/logo.svg",
+    "name": "fzxhub",
+    "introduction": "嵌入式工程师，了解及使用嵌入式操作系统",
+    "url": "https://fzxhub.com/",
     "title": "前去学习"
 }
+
 ]
